@@ -1,0 +1,303 @@
+{
+    "currentLevel": 0,
+    "name": "Captain Shield",
+    "interval": [
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "piercing": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "powerupType": "Active",
+    "id": 1120010,
+    "bullet_size": [
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9
+    ],
+    "level": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "damage_multiplier": [
+        6,
+        6,
+        8,
+        10,
+        10
+    ],
+    "area_size": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "duration": [
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "projectiles_flight_speed_2": [],
+    "evoId": 1120021,
+    "fire_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+    ],
+    "prereqId": 1130011,
+    "knockback": [
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "mechanics": "Bounces but doesnt pierce",
+    "cooldown": [
+        6,
+        6,
+        6,
+        6,
+        6
+    ],
+    "projectiles_flight_speed": [
+        10,
+        10,
+        15,
+        20,
+        20
+    ],
+    "description": [
+        "Throws 1 shield that bounces",
+        "Adds 1 shield",
+        "Increases shield flight speed, increases shield damage",
+        "Increases shield flight speed, increases shield damage",
+        "Adds 1 shield"
+    ],
+    "number_of_projecttiles": [
+        1,
+        2,
+        2,
+        2,
+        3
+    ]
+},
+{
+    "currentLevel": 1,
+    "name": "Sheriff Badge",
+    "interval": [
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "piercing": [
+        999,
+        999,
+        999,
+        999,
+        999
+    ],
+    "powerupType": "Active",
+    "id": 1120006,
+    "bullet_size": [
+        1.05,
+        1.1,
+        1.15,
+        1.2,
+        1.25
+    ],
+    "level": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "damage_multiplier": [
+        0.5,
+        0.6,
+        0.7,
+        0.8,
+        0.9
+    ],
+    "area_size": [
+        3.5,
+        3.75,
+        4,
+        4.25,
+        4.5
+    ],
+    "duration": [
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "projectiles_flight_speed_2": [],
+    "evoId": 1120016,
+    "fire_rate": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "prereqId": 1130003,
+    "knockback": [
+        1.06,
+        1.06,
+        1.06,
+        1.06,
+        1.06
+    ],
+    "mechanics": "Rotates around MC",
+    "cooldown": [
+        8,
+        8,
+        8,
+        8,
+        8
+    ],
+    "projectiles_flight_speed": [
+        18,
+        20,
+        22,
+        24,
+        26
+    ],
+    "description": [
+        "Summons 2 tops that circle you, stop bullets",
+        "Adds 1 top, increases spin speed and damage",
+        "Adds 1 top, increases spin speed and damage",
+        "Adds 1 top, increases spin speed and damage",
+        "Adds 1 top, increases spin speed and damage"
+    ],
+    "number_of_projecttiles": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+},
+{
+    "currentLevel": 0,
+    "name": "Laser Beam",
+    "interval": [
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "piercing": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "powerupType": "Active",
+    "id": 1120007,
+    "bullet_size": [
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "level": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "damage_multiplier": [
+        1.8,
+        2.25,
+        2.7,
+        3.15,
+        3.6
+    ],
+    "area_size": [
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "duration": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+    ],
+    "projectiles_flight_speed_2": [],
+    "evoId": 1120017,
+    "fire_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+    ],
+    "prereqId": 1130001,
+    "knockback": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "mechanics": "Targets random enemies",
+    "cooldown": [
+        4,
+        4,
+        4,
+        4,
+        4
+    ],
+    "projectiles_flight_speed": [
+        50,
+        50,
+        50,
+        50,
+        50
+    ],
+    "description": [
+        "Laser shower on random target area",
+        "Increases laser damage, adds 1 laser beam",
+        "Increases laser damage, adds 1 laser beam",
+        "Increases laser damage, adds 1 laser beam",
+        "Increases laser damage, adds 1 laser beam"
+    ],
+    "number_of_projecttiles": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}
